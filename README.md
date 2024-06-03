@@ -17,6 +17,9 @@ Tengo habilidades en la limpieza, estructuración y visualización de datos. Com
 ### ✅Python
 
 <p align="center">
+  <a href="https://github.com/tu_usuario/tu_repositorio" target="_blank">
+        <img src="ruta_de_tu_imagen.jpg" alt="Descripción de la imagen" style="width: 300px; height: auto;">
+    </a>
 <img src="https://github.com/Julian-Mateus/AventureWorksBicyclesStore/assets/158619680/396ba14d-15b9-4844-ac82-cc9137dabe16" width="50" height="50" />  
 <img src="https://github.com/Julian-Mateus/Julian-Mateus/assets/158619680/a7734d85-a43a-47ba-af9a-e915178bbe43" width="70" height="50" />
 <img src="https://github.com/Julian-Mateus/AventureWorksBicyclesStore/assets/158619680/84162c13-cf6e-46ec-84d7-c094276776ed" width="50" height="50" />
