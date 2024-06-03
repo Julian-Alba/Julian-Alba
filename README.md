@@ -17,19 +17,19 @@ Tengo habilidades en la limpieza, estructuración y visualización de datos. Com
 ### ✅Python
 
 <p align="center">
-        <a href="https://github.com/tu_usuario/tu_repositorio" target="_blank">
+        <a href="https://www.microsoft.com/es-co/microsoft-365/excel?ef_id=_k_d9c08c8898c4128b76e8eac2b9d32e2a_k_&OCID=AIDcmm2yn7li7u_SEM__k_d9c08c8898c4128b76e8eac2b9d32e2a_k_&msclkid=d9c08c8898c4128b76e8eac2b9d32e2a" target="_blank">
                 <img src="https://github.com/Julian-Mateus/AventureWorksBicyclesStore/assets/158619680/396ba14d-15b9-4844-ac82-cc9137dabe16" width="50" height="50" />
     </a>
-        <a href="https://github.com/tu_usuario/tu_repositorio" target="_blank">
+        <a href="https://www.google.com/sheets/about/" target="_blank">
         <img src="https://github.com/Julian-Mateus/Julian-Mateus/assets/158619680/a7734d85-a43a-47ba-af9a-e915178bbe43" width="70"           height="50" />
     </a>
-        <a href="https://github.com/tu_usuario/tu_repositorio" target="_blank">
+        <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads?ocid=ORSEARCH_Bing" target="_blank">
         <img src="https://github.com/Julian-Mateus/AventureWorksBicyclesStore/assets/158619680/84162c13-cf6e-46ec-84d7-c094276776ed" width="50" height="50" />
     </a>
-        <a href="https://github.com/tu_usuario/tu_repositorio" target="_blank">
+        <a href="https://powerbi.microsoft.com/es-es/desktop/" target="_blank">
         <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/69922e76-015b-4d0c-900d-afdebd3f4354"             width="50" height="50" />
     </a>
-        <a href="https://github.com/tu_usuario/tu_repositorio" target="_blank">
+        <a href="https://www.python.org/" target="_blank">
         <img src="https://github.com/Julian-Mateus/LaboratoriosBiogenesys/assets/158619680/c3d168ba-e4b0-442b-884e-c7bc4028a054"             width="50" height="50" />
     </a>
 </p>
